@@ -1,6 +1,8 @@
 # Static-website
 
 Hosting a static website on s3 
+
+
 1.Create a S3 Bucket
 2.Upload Your Website To S3
 3.Enable S3 Website Hosting
